@@ -14,8 +14,6 @@ This project is being developed with the following technologies:
 - NodeJS
 - Express
 - Typeorm
-- jsonwebtoken
-
 
 ## 💻 Project
 
