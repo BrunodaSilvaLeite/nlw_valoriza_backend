@@ -24,6 +24,6 @@ The ***Valoriza***, it is part from the [faz parte do NLW Together feito pela Ro
 
 ## :memo: License
 
-This project is under License MIT. See the documentation [LICENSE](LICENSE.md) for more details.
+This project is under License MIT. See the documentation [LICENSE](LICENSE) for more details.
 
 ---
