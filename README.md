@@ -19,7 +19,7 @@ This project is being developed with the following technologies:
 
 ## 💻 Project
 
-The ***Valoriza***, it is part from the [faz parte do NLW Together feito pela Rocketseat](https://app.rocketseat.com.br/nlw-together/tracks). With the purpose of learning ***NodeJS***, using ***Express*** para criar um pojeto backend de elogios. Made with **Typescript**, **NodeJS** , **Express** and **Typeorm**.
+The ***Valoriza***, [is part of NLW Together made by Rocketseat](https://app.rocketseat.com.br/nlw-together/tracks). With the purpose of learning ***NodeJS***, using ***Express*** para criar um pojeto backend de elogios. Made with **Typescript**, **NodeJS** , **Express** and **Typeorm**.
 
 
 ## :memo: License
